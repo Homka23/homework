@@ -1,0 +1,38 @@
+body {
+    background: #37a864;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+.first {
+    text-align: center;
+    width: 350px;
+    height: 450px;
+    background: #343434;
+    padding: 40px;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+img {
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+.icon {
+    font-size: 60px;
+    color: #37a864;
+}
+.name {
+    color: #46c979;
+    margin-top: 20px;
+}
